@@ -4,4 +4,4 @@
 Пользовательский интерфейс виден на гифке.
 
 
-![](https://github.com/Pin80/MeshViewer/blob/main/mtqtapp.gif)
+![](https://github.com/Pin80/MeshViewer/blob/main/myqtapp.gif)
